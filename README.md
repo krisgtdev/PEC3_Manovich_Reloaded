@@ -93,5 +93,3 @@ ___
 
 
 [El software toma el mando - Lev Manovich]()
-
-> Written with [StackEdit](https://stackedit.io/).
