@@ -34,7 +34,7 @@ Sin embargo, los medios han seguido evolucionando e interactuando entre ellos ha
 ¿Y como podríamos saber si estamos ante una hibridación de medios o un caso de multimedia?
 
 > ...convivimos con multitud de
-> ejemplo de híbridos de medios: los encontramos en las interfaces de
+> ejemplos de híbrido de medios: los encontramos en las interfaces de
 > usuario, las aplicaciones web, las apps móviles, el diseño vsual, el
 > diseño intercativo, los efectos visuales, los medios locativos, los
 > etornos interactivos, el arte digital y otros ámbitos de la cultura
