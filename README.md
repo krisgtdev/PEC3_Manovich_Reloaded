@@ -25,7 +25,7 @@ Los nuevos medios se caracterizan por disponer de una serie de propiedades comun
 > en que cada medio conservaría su esencia, su lenguaje, y su modo de
 > organizar y acceder a los datos
 
-Sin embargo, los medios han seguido evolucionando e interactuando entre ellos hasta dar lugar a la **hibridación**. Este proceso consiste en un intercambio de técnicas y propiedades, fusionándose los medios entre ellos, mutando en la creación de nuevos medios, en que la estructura original de las datos se los datos se vería afectada.
+Sin embargo, los medios han seguido evolucionando e interactuando entre ellos hasta dar lugar a la **hibridación**. Este proceso consiste en un intercambio de técnicas y propiedades, fusionándose los medios entre ellos, mutando en la creación de nuevos medios, en que la estructura original de los datos se vería afectada.
 
 > Para distinguir entre la _**multimedia**_ y los _**medios
 > híbridos**_ hay que fijarse en si la estructura original de los datos se
