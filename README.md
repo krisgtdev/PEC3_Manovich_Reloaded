@@ -61,12 +61,12 @@ Este proceso se ha llevado a cabo con la **tecnología Second Canvas**. Se trata
 A priori, podríamos decir que meramente se trata de un video interactivo, pero ahora sabemos que hay muchos más, que se trata de la yuxtaposición de una serie de medios y tecnologías, cada una de las cuales a su vez, esta desarrollada por la conjunción de otros medios, capas de evolución que se han ido sumando y desarrollando hasta crear nuevos medios con su propio ADN.
 
 ___
-### Gorilaz -Saturnz Barz (Spirit House)
+### Gorillaz -Saturnz Barz (Spirit House)
 ![House Spirit 3D](./media/housesprit3d.jpg)
 
 > … los medios de las imágenes en movimiento mezclan formatos, presupuestos y técnicas de diversos orígenes (_Manovich_)
 
-El video musical creado para la canción **Saturnz Barz** de la banda **Gorillaz** en 2017, fue creado con una tecnología todavía en desarrollo, y que en los años siguientes no ha hecho más que perfeccionarse, hasta conseguir resultados completamente realistas e impresionantes. Pero en aquel año fue algo experimental que impactó, por la novedad y originalidad de su presentación. El videoclip nos relata una narrativa alternativa, que integra un diseño en 3D renderizado para presentar el entorno, la casa encantada, y un diseño de personajes planos, en 2D.  El video combina ambas técnicas para contarnos la historia de una casa encantada, donde los efectos visuales se combinan con los efectos sonoros de ambientación.
+El video musical creado para la canción **Saturnz Barz** de la banda **Gorillaz** en 2017, fue creado con una tecnología todavía en desarrollo, y que en los años siguientes no ha hecho más que perfeccionarse, hasta conseguir resultados completamente realistas e impresionantes. Pero en aquel año fue algo experimental que impactó, por la novedad y originalidad de su presentación. El videoclip nos relata una narrativa alternativa, que integra un diseño en 3D renderizado para presentar el entorno, y un diseño de personajes planos, en 2D.  El video combina ambas técnicas para contarnos la historia de una casa encantada, donde los efectos visuales se combinan con los efectos sonoros de ambientación.
 
 > Los gráficos en movimiento nacen de la integración entre el software de dibujo vectorial y el de animación (_Manovich_)
 
